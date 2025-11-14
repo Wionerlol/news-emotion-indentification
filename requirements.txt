@@ -5,7 +5,7 @@ scipy
 jieba
 
 torch
-transformer
+transformers
 datasets
 acceletate
 tqdm
