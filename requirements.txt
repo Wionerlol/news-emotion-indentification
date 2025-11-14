@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+jieba
+
+torch
+transformer
+datasets
+acceletate
+tqdm
+
+statsmodels
