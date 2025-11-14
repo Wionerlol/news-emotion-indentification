@@ -7,7 +7,7 @@ jieba
 torch
 transformers
 datasets
-acceletate
+accelerate
 tqdm
 
 statsmodels
